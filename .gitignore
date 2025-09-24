@@ -1,0 +1,17 @@
+__pycache__
+*.pyc
+test/
+dist/
+tmp/
+.vscode
+build
+*.lock
+*.db
+mkdocs.yml
+.temp
+lazyllm_chroma/
+docs/en/assets
+docs/zh/assets
+infer_log/
+*.log
+log.txt
